@@ -1,5 +1,5 @@
 # Netflix UI Clone
-### Welcome to our Netflix Front-End project! 🎬🍿
+### Welcome to our Netflix UI project! 🎬🍿
 
 ## Introduction
 This project aims to recreate the immersive experience of the Netflix user interface on the web. With a sleek design and user-friendly interface, our goal is to provide users with a seamless browsing experience akin to the popular streaming platform.
